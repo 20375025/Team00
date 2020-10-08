@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include "A.h"
 
-int main( )
+int main()
 {
-	printf( "Hello world\n" ) ;
+	APrint() ;
 }
+
+
